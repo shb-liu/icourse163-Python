@@ -6,3 +6,4 @@ if Temp[0] in ['F', 'f']:
 else:# Temp[0] in ['C', 'c']:
     F = eval(Temp[1:]) * 1.8 + 32
     print('F{:.2f}'.format(F))
+#该案例老师使用了if，elif，else来编写程序。因为原题规定假定不存在错误输入，因此采用该方法。
