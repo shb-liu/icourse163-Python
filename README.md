@@ -7,3 +7,8 @@
 
 ## 2020-03-08
 现学现卖，了解下Markdown的语法。
+
+## 2020-03-17
+
+`/icourse163-Python/spider/`同为中国大学MOOC平台[《Python网络爬虫与信息提取》](https://www.icourse163.org/course/BIT-1001870001)相关涉及案例。教师：嵩天。
+
