@@ -8,9 +8,9 @@ def getText():
 
 hamletText = getText()
 words = hamletText.split()
-counts = {}
+counts = {} #创建字典
 for word in words:
-    counts[word] = counts.get(word,0) + 1
+    counts[word] = counts.get(word,0) + 1   #以word为key，为其赋值
 items = list(counts.items())
 items.sort(key=lambda x:x[1], reverse=True)
 for i in range(10):
