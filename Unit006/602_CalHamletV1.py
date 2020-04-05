@@ -2,7 +2,7 @@
 def getText():
     text = open("hamlet.txt", "r").read()
     text = text.lower()
-    for ch in '!"#$%&()*+,-./:;<=>?@[\\]^_{|}~`\'':
+    for ch in '!"#$%&()*+,-./:;<=>?@[\\]^_‘{|}~':
         text = text.replace("ch", " ")
     return text
 
