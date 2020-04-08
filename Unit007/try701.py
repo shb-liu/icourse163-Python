@@ -1,4 +1,4 @@
-#try0701_
+#try701.py
 tf = open("f.txt", "rt")
 print(tf.readline())
 tf.close()
