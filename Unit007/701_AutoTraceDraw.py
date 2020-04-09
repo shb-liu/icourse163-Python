@@ -1,4 +1,4 @@
-#ex701_AutoTraceDraw.py
+#701_AutoTraceDraw.py
 import turtle as t
 
 #设置绘制环境
