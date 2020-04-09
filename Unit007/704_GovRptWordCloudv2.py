@@ -1,4 +1,4 @@
-#ex704_GovRptWordCloudv1.py
+#704_GovRptWordCloudv1.py
 import jieba
 import wordcloud
 from matplotlib.pyplot import imread
