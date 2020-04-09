@@ -1,4 +1,4 @@
-#ex703_GovRptWordCloudv1.py
+#703_GovRptWordCloudv1.py
 import jieba
 import wordcloud
 f = open("关于实施乡村振兴战略的意见.txt", "r", encoding="utf-8")
