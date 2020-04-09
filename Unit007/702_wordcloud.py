@@ -1,4 +1,4 @@
-#ex702_wordcloud.py
+#702_wordcloud.py
 import wordcloud
 import jieba
 
