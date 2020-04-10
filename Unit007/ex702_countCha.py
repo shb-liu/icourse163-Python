@@ -10,3 +10,4 @@ for i in "abcdefghijklmnopqrstuvwxyz":
     s += c
     t += ",{}:{}".format(i, c)
 print("共{}字符{}".format(s, t))
+#未包含非小写字母的字符数量，以及跳过个数为0的数
